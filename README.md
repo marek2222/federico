@@ -5,6 +5,7 @@ https://www.udemy.com/user/federico-leon/
 https://github.com/stretchr/testify
 
  
+------------------
 3: Testing our first server
 
 curl localhost:8080/hello
@@ -19,6 +20,10 @@ i przenieś plik: webserver na pulpit:
 
 Przejdz na pulpit i uruchom przez: 
     ./webserver
+
+
+------------------
+4: MVC
 
 
 
